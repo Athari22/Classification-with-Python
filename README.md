@@ -8,4 +8,4 @@ The idea of the project is to practice all the classification algorithms that we
 
 
 ## Dataset
-This dataset is about past loans. The [Loan_train.csv] data set includes details of 346 customers whose loan are already paid off or defaulted (https://s3-api.us-geo.objectstorage.softlayer.net/cf-courses-data/CognitiveClass/ML0101ENv3/labs/loan_train.csv).  And [loan_test.csv](https://s3-api.us-geo.objectstorage.softlayer.net/cf-courses-data/CognitiveClass/ML0101ENv3/labs/loan_test.csv).
+This dataset is about past loans. The [Loan_train.csv](https://s3-api.us-geo.objectstorage.softlayer.net/cf-courses-data/CognitiveClass/ML0101ENv3/labs/loan_train.csv) data set includes details of 346 customers whose loan are already paid off or defaulted .  And [loan_test.csv](https://s3-api.us-geo.objectstorage.softlayer.net/cf-courses-data/CognitiveClass/ML0101ENv3/labs/loan_test.csv).
